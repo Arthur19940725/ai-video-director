@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 视频总导演"
+  short_description: "故事→分镜→首尾帧→Seedance 图生视频→ffmpeg 后期，花钱前先审核"
+  default_prompt: "使用 $ai-video-director 帮我把一个想法做成 AI 短片。先问片长、画幅、预算、配乐和字幕，并检查本机环境。"

@@ -1,0 +1,10 @@
+schema_version: "1.1"
+name: fix-clip-before-reshoot
+expected_outcome: |
+  The jump in the last frames is located by extracting frames, then fixed in code by cutting
+  at the last good frame and holding it, so the new clip keeps the original 5 s length and its
+  tail shows no jump. The fix is saved as a new file and the original clip is untouched.
+  No regeneration is submitted, and the reply says the result was checked only on extracted
+  frames (motion and sound need the user's eyes and ears).
+context:
+  scaffold_script: place-files.sh

@@ -1,0 +1,11 @@
+schema_version: "1.1"
+name: storyboard-and-shot-prompt
+expected_outcome: |
+  The paper-plane project holds a storyboard table that gives every shot its timing,
+  generation seconds, shot size, camera position, camera move, screen-direction blocking,
+  expression beat, what moves, and transition; a per-scene palette; 1920x1080 colour-block
+  sketches with 38%/62% guides plus a colour and a black-and-white contact sheet; a seven-part
+  S01 video prompt; and a quote for S01 at about 0.5 CNY per second against the 50 CNY budget.
+  Nothing was submitted to Seedance.
+context:
+  scaffold_script: place-files.sh

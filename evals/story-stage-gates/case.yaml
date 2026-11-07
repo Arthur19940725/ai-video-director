@@ -1,0 +1,9 @@
+schema_version: "1.1"
+name: story-stage-gates
+expected_outcome: |
+  A rain-delivery project folder holds a versioned shot-by-shot story for a 15 s 9:16 film,
+  a one-sentence statement of what the film says, staggered and realistic reactions,
+  a grabbing opening, and a fragment (片段式) structure that avoids AI-video weak spots,
+  including the bowl of soup being held. A separate, context-free reviewer reviewed the
+  story and its verdict is saved. The budget of 60 CNY is recorded. No image or video was
+  generated and no paid API was called.
